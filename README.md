@@ -1,159 +1,142 @@
 # 👋 Hi, I'm Saneel Godage
 
-## 💻 Java Backend Developer
+## 💻 ETL Automation Test Engineer | Data QA Engineer
 
-Java Backend Developer with 3+ years of experience working with Java, Spring Boot, Microservices, REST APIs, Spring Security, MySQL, Kafka, Redis, AWS, Docker and Jenkins.
+ETL Automation Test Engineer with **3.3 years of experience** in ETL testing, data validation, database testing, and automation. Skilled in Python, SQL, complex SQL queries, PySpark, Azure Data Factory, Azure Databricks, Snowflake, Selenium, Pytest, REST API testing, and CI/CD.
 
 ---
 
 ## 🛠️ Skills
 
-### Backend
-Java | Spring Boot | Spring MVC | REST APIs | Spring Data JPA | Hibernate
+### Programming & Query Languages
+Python | SQL | Complex SQL Queries | PySpark | Shell Scripting
 
-### Microservices
-Spring Cloud | Eureka | API Gateway | OpenFeign | Resilience4j
+### ETL & Data Engineering
+ETL/ELT Testing | Data Pipeline Validation | Source-to-Target Validation | Data Reconciliation | Data Migration Testing | Data Quality Checks | Incremental Load Testing | CDC Validation
 
-### Security
-Spring Security | JWT | OAuth 2.0 | RBAC
+### Cloud & Data Platforms
+Microsoft Azure | Azure Data Factory (ADF) | Azure Databricks | ADLS Gen2 | Azure Synapse Analytics | Snowflake | Delta Lake | Apache Spark
 
-### Database
-MySQL | PostgreSQL | JPA | Hibernate | Query Optimization | Indexing
+### Database Testing
+SQL Server | Snowflake | MySQL | Schema Validation | Row Count Validation | Duplicate Checks | Null Checks | Referential Integrity | Query Optimization
 
-### Messaging & Caching
-Apache Kafka | Redis
+### Automation & API Testing
+Python Automation | Pytest | Selenium WebDriver | REST API Testing | Postman | Requests | Regression Testing | Integration Testing
 
-### Cloud & DevOps
-AWS | Docker | Jenkins | Git | Maven
+### DevOps & Tools
+Git | Jenkins | Azure DevOps | CI/CD | Allure Reports | Jira | Linux
 
-### Testing & Tools
-JUnit 5 | Mockito | H2 | Postman | IntelliJ IDEA
+### Data Formats
+CSV | JSON | XML | Parquet
 
 ---
 
 # 🚀 My Projects
 
-## 🏥 Healthcare Appointment Platform
+## 🏦 Banking Data Pipeline Testing & Automation
 
-**Spring Boot | Microservices | Kafka | Redis | MySQL | JWT | Spring Security | Eureka | API Gateway**
+**Python | SQL | PySpark | Azure Data Factory | Azure Databricks | ADLS Gen2 | Snowflake | Pytest**
 
-A microservices-based healthcare appointment platform.
+ETL testing and automation for banking transaction pipelines, focusing on data accuracy, integrity, reconciliation, and reliable data movement across cloud data platforms.
 
-### Services
+### Key Features
 
-- Patient Service
-- Doctor Service
-- Appointment Service
-- Notification Service
-
-### Features
-
-- Microservices architecture
-- Eureka service discovery
-- API Gateway routing
-- Kafka-based asynchronous communication
-- Redis caching for doctor availability
-- JWT authentication
-- Role-Based Access Control
-- JUnit 5 testing
+- Validate source-to-target data across ETL pipeline stages.
+- Write complex SQL queries using joins, subqueries, aggregations, and window functions.
+- Perform row count, schema, null, duplicate, and business-rule validation.
+- Use Python scripts to automate data quality checks and reconciliation.
+- Validate batch and incremental loads, including CDC scenarios.
+- Verify transformations using PySpark and Databricks.
+- Reconcile data across source systems, staging tables, and target datasets.
+- Investigate data mismatches using SQL queries and pipeline logs.
+- Support regression testing and automated test execution using Pytest.
 
 ---
 
-## 📦 Inventory and Order Management System
+## 🏥 Healthcare Data Quality & ETL Validation
 
-**Spring Boot | REST APIs | Kafka | Redis | MySQL | Spring Security | Docker**
+**Python | SQL | PySpark | Azure Databricks | Snowflake | Pytest**
 
-Backend system for product management, inventory tracking and order processing.
+Data quality testing for healthcare datasets involving patient, claims, insurance, and provider information.
 
-### Features
+### Key Features
 
-- Product management
-- Inventory tracking
-- Order processing
-- REST APIs
-- Kafka event-driven stock updates
-- Redis caching
-- MySQL database
-- Database indexing and query optimization
-- JWT authentication
-- Spring Security
-- Docker containerization
+- Validate completeness, consistency, and accuracy of healthcare data.
+- Perform source-to-target reconciliation using SQL.
+- Identify missing records, duplicates, invalid values, and data mismatches.
+- Validate schemas and data types across CSV, JSON, and XML datasets.
+- Test incremental loads and Slowly Changing Dimensions (SCD Type 1 and Type 2).
+- Automate repetitive validation checks using Python and Pytest.
+- Verify transformation logic and investigate ETL failures.
+- Support data privacy checks and masking validation for sensitive information.
 
 ---
 
-## 👨‍💼 Employee Management System
+## 🤖 ETL Automation Testing Framework
 
-**Java | JSP | Servlets | JDBC | MySQL | Tomcat**
+**Python | Pytest | Selenium | REST API | SQL | Allure | CI/CD**
 
-Java web application for managing employee information.
+A reusable testing framework for automating data validation, API checks, and regression testing.
 
-### Features
+### Key Features
 
-- Employee management
-- CRUD operations
-- JSP web interface
-- Servlet backend
-- JDBC database connectivity
-- MySQL database
-
----
-
-## ⌨️ Speedcoder
-
-**JavaScript | Web Application**
-
-A typing speed test web application designed to help users practice and measure their typing performance.
-
-### Features
-
-- WPM measurement
-- Accuracy tracking
-- Typing challenges
-- Interactive typing experience
-- Meme reactions
+- Build reusable Python-based test utilities.
+- Automate data validation and reconciliation test cases.
+- Execute REST API tests and validate response data.
+- Verify backend database records using SQL.
+- Use parameterized and data-driven test cases.
+- Generate execution reports using Allure.
+- Integrate automated tests into CI/CD workflows.
+- Improve test coverage and reduce repetitive manual testing.
 
 ---
 
 # 💼 Experience
 
-## Java Backend Developer
+## ETL Automation Test Engineer
 
-**Viral Technology — Mumbai, India**
+**NMBR System**
 
-**July 2023 – Present**
+**Experience: 3.3 Years**
 
-- Develop backend applications using Java and Spring Boot
-- Build secure REST APIs and microservices
-- Work with Spring Security, JWT and OAuth 2.0
-- Develop database applications using MySQL, JPA and Hibernate
-- Implement asynchronous communication using Apache Kafka
-- Use Redis for caching and performance optimization
-- Work with Docker, Jenkins CI/CD and AWS
+- Perform ETL testing and source-to-target data validation.
+- Write complex SQL queries for data comparison and reconciliation.
+- Develop Python scripts to automate data quality checks.
+- Validate cloud data pipelines involving Azure Data Factory and Databricks.
+- Use PySpark to verify data transformations and large datasets.
+- Perform Snowflake data validation and reconciliation.
+- Execute API, integration, and regression testing.
+- Automate test cases using Pytest and Selenium.
+- Investigate data mismatches, analyze logs, and document defects.
+- Support CI/CD-based test execution and reporting.
 
 ---
 
 # 🎓 Education
 
-**Bachelor of Technology**
+**Bachelor's Degree in Computer Science / Engineering**
 
 S.B. Patil College of Engineering  
 Indapur, Maharashtra, India
 
 ---
 
-# 📚 Certifications
+# 📚 Certifications & Learning
 
-- Full Stack Development — Java, J2EE, Angular
-- Spring Boot and Microservices — Advanced Backend Training
-- AWS Cloud Fundamentals
+- ETL Testing and Data Quality
+- Python Automation with Pytest
+- SQL and Database Testing
+- Azure Data Factory and Databricks
+- Snowflake Data Validation
+- CI/CD and Test Automation
 
 ---
 
 # 📫 Contact
 
-📧 Email: **saneelgodage@gmail.com**
+📧 Email: **saneelgodage0@gmail.com**
 
-📍 Mumbai, India
+📍 Bengaluru, India
 
 ---
 
